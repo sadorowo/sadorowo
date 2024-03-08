@@ -11,6 +11,7 @@ Read something about me [there](https://sador.me)!
   - [sadorowo/dynamic-content-delivery-api](https://github.com/sadorowo/dynamic-content-delivery-api)
   - ~~[sadorowo/dcd-legacy](https://github.com/sadorowo/dcd-legacy)~~ - not recommended and deprecated, simpler, but unsafe version of DCD
 - [Modded version](https://github.com/sadorowo/wulkanowy-mod) of [Wulkanowy](https://github.com/wulkanowy/wulkanowy) app.
+- [Zine](https://github.com/sadorowo/zine-v4) Discord bot
 
 ## IPTV scripts
 - [sadorowo/m3u-category-matcher](https://github.com/sadorowo/m3u-category-matcher)
